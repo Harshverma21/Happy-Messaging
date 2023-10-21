@@ -1,3 +1,11 @@
+Name: Harsh Verma(210415)
+University: IIT Kanpur
+Department: Economic Sciences
+
+
+
+
+
 ## 🏁 Installation
 
 ### 📦 Using Docker (recommended)
