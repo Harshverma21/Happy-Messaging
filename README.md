@@ -1,6 +1,6 @@
-Name: Harsh Verma (210415)
-University: IIT Kanpur
-Department: Economic Sciences
+NAME: HARSH VERMA,
+UNIVERSITY: IIT KANPUR,
+DEPARTMENT: ECONOMIC SCIENCES
 
 
 
